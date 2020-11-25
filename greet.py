@@ -3,5 +3,5 @@
 
 def greet():
     print("Hello xyz")
-    print("updated from local repo")
+    print("updated from website")
 greet()
